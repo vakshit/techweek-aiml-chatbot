@@ -1,0 +1,226 @@
+<aiml>
+
+<category>
+  <pattern>MAHARASHTRA TOTAL</pattern>
+  <template>1823896</template>
+</category>
+
+<category>
+  <pattern>KARNATAKA TOTAL</pattern>
+  <template>884897</template>
+</category>
+
+<category>
+  <pattern>ANDHRA PRADESH TOTAL</pattern>
+  <template>868064</template>
+</category>
+
+<category>
+  <pattern>TAMIL NADU TOTAL</pattern>
+  <template>781915</template>
+</category>
+
+<category>
+  <pattern>KERELA TOTAL</pattern>
+  <template>620298</template>
+</category>
+
+<category>
+  <pattern>DELHI TOTAL</pattern>
+  <template>570374</template>
+</category>
+
+<category>
+  <pattern>UTTAR PRADESH TOTAL</pattern>
+  <template>543888</template>
+</category>
+
+<category>
+  <pattern>UP TOTAL</pattern>
+  <template>543888</template>
+</category>
+
+<category>
+  <pattern>WEST BENGAL TOTAL</pattern>
+  <template>483484</template>
+</category>
+<category>
+  <pattern>ORISSA TOTAL</pattern>
+  <template>31875</template>
+</category>
+<category>
+  <pattern>TELANGANA TOTAL</pattern>
+  <template>270318</template>
+</category>
+<category>
+  <pattern>RAJASTHAN TOTAL</pattern>
+  <template>268063</template>
+</category>
+
+<category>
+  <pattern>CHATTISGARH TOTAL</pattern>
+  <template>237322</template>
+</category>
+
+<category>
+  <pattern>BIHAR TOTAL</pattern>
+  <template>234610</template>
+</category>
+
+<category>
+  <pattern>HARYANA TOTAL</pattern>
+  <template>234126</template>
+</category>
+
+<category>
+  <pattern>ASSAM TOTAL</pattern>
+  <template>212776</template>
+</category>
+
+<category>
+  <pattern>GUJRAT TOTAL</pattern>
+  <template>209780</template>
+</category>
+
+<category>
+  <pattern>MADHYA PRADESH TOTAL</pattern>
+  <template>206128</template>
+</category>
+
+<category>
+  <pattern>MP TOTAL</pattern>
+  <template>206128</template>
+</category>
+
+<category>
+  <pattern>PUNJAB TOTAL</pattern>
+  <template>152091</template>
+</category>
+
+<category>
+  <pattern>JAMMU AND KASHMIR TOTAL</pattern>
+  <template>110224</template>
+</category>
+
+<category>
+  <pattern>JAMMU KASHMIR TOTAL</pattern>
+  <template>110224</template>
+</category>
+
+<category>
+  <pattern>JAMMU * KASHMIR TOTAL</pattern>
+  <template>110224</template>
+</category>
+
+<category>
+  <pattern>JHARKHAND TOTAL</pattern>
+  <template>109151</template>
+</category>
+<category>
+  <pattern>UTTRAKHAND TOTAL</pattern>
+  <template>74795</template>
+</category>
+
+<category>
+  <pattern>GOA TOTAL</pattern>
+  <template>47963</template>
+</category>
+
+<category>
+  <pattern>HIMANCHAL PRADESH TOTAL</pattern>
+  <template>40518</template>
+</category>
+
+<category>
+  <pattern>HP TOTAL</pattern>
+  <template>40518</template>
+</category>
+
+<category>
+  <pattern>PUDDUCHERRY TOTAL</pattern>
+  <template>36968</template>
+</category>
+
+<category>
+  <pattern>PONDICHERRY TOTAL</pattern>
+  <template>36968</template>
+</category>
+
+<category>
+  <pattern>TRIPURA TOTAL</pattern>
+  <template>32726</template>
+</category>
+
+<category>
+  <pattern>MANIPUR TOTAL</pattern>
+  <template>25045</template>
+</category>
+
+<category>
+  <pattern>CHANDIGARH TOTAL</pattern>
+  <template>17409</template>
+</category>
+
+<category>
+  <pattern>ARUNANCHAL PRADESH TOTAL</pattern>
+  <template>16282</template>
+</category>
+
+<category>
+  <pattern>MAGHALAYA TOTAL</pattern>
+  <template>11810</template>
+</category>
+
+<category>
+  <pattern>NAGALAND TOTAL</pattern>
+  <template>11186</template>
+</category>
+
+<category>
+  <pattern>LADDAKH TOTAL</pattern>
+  <template>8415</template>
+</category>
+
+<category>
+  <pattern>SIKKIM TOTAL</pattern>
+  <template>4899</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR TOTAL</pattern>
+  <template>4710</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR * TOTAL</pattern>
+  <template>4710</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN NICOBAR TOTAL</pattern>
+  <template>4710</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN * NICOBAR TOTAL</pattern>
+  <template>4710</template>
+</category>
+
+<category>
+  <pattern>MIZORAM TOTAL</pattern>
+  <template>3847</template>
+</category>
+
+<category>
+  <pattern>WORLD TOTAL</pattern>
+  <template>90,429,982</template>
+</category>
+
+<category>
+  <pattern>INDIA TOTAL</pattern>
+  <template>94,62,809</template>
+</category>
+
+</aiml>
+
+

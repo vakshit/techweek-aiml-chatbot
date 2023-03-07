@@ -1,0 +1,228 @@
+<aiml>
+
+<category>
+  <pattern>MAHARASHTRA DEATHS</pattern>
+  <template>47151</template>
+</category>
+
+<category>
+  <pattern>KARNATAKA DEATHS</pattern>
+  <template>11778</template>
+</category>
+
+<category>
+  <pattern>ANDHRA PRADESH DEATHS</pattern>
+  <template>6992</template>
+</category>
+
+<category>
+  <pattern>TAMIL NADU DEATHS</pattern>
+  <template>11712</template>
+</category>
+
+<category>
+  <pattern>KERELA DEATHS</pattern>
+  <template>2244</template>
+</category>
+
+<category>
+  <pattern>DELHI DEATHS</pattern>
+  <template>9174</template>
+</category>
+
+<category>
+  <pattern>UTTAR PRADESH DEATHS</pattern>
+  <template>7761</template>
+</category>
+
+<category>
+  <pattern>UP DEATHS</pattern>
+  <template>7761</template>
+</category>
+
+<category>
+  <pattern>WEST BENGAL DEATHS</pattern>
+  <template>8424</template>
+</category>
+<category>
+  <pattern>ORISSA DEATHS</pattern>
+  <template>1739</template>
+</category>
+<category>
+  <pattern>TELANGANA DEATHS</pattern>
+  <template>1461</template>
+</category>
+<category>
+  <pattern>RAJASTHAN DEATHS</pattern>
+  <template>2312</template>
+</category>
+
+<category>
+  <pattern>CHATTISGARH DEATHS</pattern>
+  <template>2861</template>
+</category>
+
+<category>
+  <pattern>BIHAR DEATHS</pattern>
+  <template>1264</template>
+</category>
+
+<category>
+  <pattern>HARYANA DEATHS</pattern>
+  <template>2428</template>
+</category>
+
+<category>
+  <pattern>ASSAM DEATHS</pattern>
+  <template>981</template>
+</category>
+
+<category>
+  <pattern>GUJRAT DEATHS</pattern>
+  <template>3989</template>
+</category>
+
+<category>
+  <pattern>MADHYA PRADESH DEATHS</pattern>
+  <template>3260</template>
+</category>
+
+<category>
+  <pattern>MP DEATHS</pattern>
+  <template>3260</template>
+</category>
+
+<category>
+  <pattern>PUNJAB DEATHS</pattern>
+  <template>4807</template>
+</category>
+
+<category>
+  <pattern>JAMMU AND KASHMIR DEATHS</pattern>
+  <template>1694</template>
+</category>
+
+<category>
+  <pattern>JAMMU KASHMIR DEATHS</pattern>
+  <template>1694</template>
+</category>
+
+<category>
+  <pattern>JAMMU * KASHMIR DEATHS</pattern>
+  <template>1694</template>
+</category>
+
+<category>
+  <pattern>JHARKHAND DEATHS</pattern>
+  <template>964</template>
+</category>
+<category>
+  <pattern>UTTRAKHAND DEATHS</pattern>
+  <template>1231</template>
+</category>
+
+<category>
+  <pattern>GOA DEATHS</pattern>
+  <template>688</template>
+</category>
+
+<category>
+  <pattern>HIMANCHAL PRADESH DEATHS</pattern>
+  <template>645</template>
+</category>
+
+<category>
+  <pattern>HP DEATHS</pattern>
+  <template>645</template>
+</category>
+
+<category>
+  <pattern>PUDDUCHERRY DEATHS</pattern>
+  <template>610</template>
+</category>
+
+<category>
+  <pattern>PONDICHERRY DEATHS</pattern>
+  <template>610</template>
+</category>
+
+<category>
+  <pattern>TRIPURA DEATHS</pattern>
+  <template>370</template>
+</category>
+
+<category>
+  <pattern>MANIPUR DEATHS</pattern>
+  <template>281</template>
+</category>
+
+<category>
+  <pattern>CHANDIGARH DEATHS</pattern>
+  <template>277</template>
+</category>
+
+<category>
+  <pattern>ARUNANCHAL PRADESH DEATHS</pattern>
+  <template>54</template>
+</category>
+
+<category>
+  <pattern>MAGHALAYA DEATHS</pattern>
+  <template>111</template>
+</category>
+
+<category>
+  <pattern>NAGALAND DEATHS</pattern>
+  <template>64</template>
+</category>
+
+<category>
+  <pattern>LADDAKH DEATHS</pattern>
+  <template>117</template>
+</category>
+
+<category>
+  <pattern>SIKKIM DEATHS</pattern>
+  <template>109</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR DEATHS</pattern>
+  <template>61</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR * DEATHS</pattern>
+  <template>61</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN NICOBAR DEATHS</pattern>
+  <template>61</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN * NICOBAR DEATHS</pattern>
+  <template>61</template>
+</category>
+
+<category>
+  <pattern>MIZORAM DEATHS</pattern>
+  <template>5</template>
+</category>
+
+<category>
+  <pattern>WORLD DEATHS</pattern>
+  <template>19,39,631</template>
+</category>
+
+<category>
+  <pattern>INDIA DEATHS</pattern>
+  <template>1,37,621</template>
+</category>
+
+
+</aiml>
+
+
+

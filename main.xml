@@ -1,0 +1,1182 @@
+<aiml>
+
+<category>
+<pattern>HOW ARE YOU</pattern>
+<template>I'm Fine...!!!</template>
+</category>
+
+<category>
+  <pattern>HI</pattern>
+  <template>
+  <random>
+  <li>Hello! To know cases, type "State/India/World Active/Total/Deaths"</li>
+  <li>Heyy! To know cases, type "State/India/World Active/Total/Deaths"</li>
+  <li>Hi, The Errors welcome you to use Cobot. To know cases, type "State/India/World Active/Total/Deaths"</li>
+  <li>Hey, Nice to meet you! To know cases, type "State/India/World Active/Total/Deaths"</li>
+  </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HELLO</pattern>
+  <template><srai>Hi</srai></template>
+</category>
+
+<category>
+  <pattern>HEY</pattern>
+  <template><srai>Hi</srai></template>
+</category>
+
+<category>
+  <pattern>HOLA</pattern>
+  <template><srai>Hi</srai></template>
+</category>
+
+<category>
+  <pattern>SYMPTOMS</pattern>
+  <template>
+  The most common symptoms of COVID-19 are fever, tiredness, and
+dry cough. Some patients may have aches and pains, nasal
+congestion, runny nose, sore throat or diarrhea. These symptoms are
+usually mild and begin gradually. Some people become infected but
+don’t develop any symptoms and don't feel unwell. Most people
+(about 80%) recover from the disease without needing special
+treatment. Around 1 out of every 6 people who gets COVID-19
+becomes seriously ill and develops difficulty breathing. Older people,
+and those with underlying medical problems like high blood pressure,
+heart problems or diabetes, are more likely to develop serious illness.
+People with fever, cough and difficulty breathing should seek medical
+attention.
+</template>
+</category>
+
+
+<category>
+  <pattern>* SYMPTOMS *</pattern>
+  <template>
+  <srai>SYMPTOMS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* SYMPTOMS</pattern>
+  <template>
+  <srai>SYMPTOMS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>SYMPTOMS *</pattern>
+  <template>
+  <srai>SYMPTOMS</srai>
+  </template>
+</category>
+
+
+<category>
+  <pattern>PRECAUTIONS</pattern>
+  <template>Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+Maintain a safe distance from anyone who is coughing or sneezing.
+Wear a mask when physical distancing is not possible.
+Don’t touch your eyes, nose or mouth.
+Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
+Stay home if you feel unwell.
+If you have a fever, cough and difficulty breathing, seek medical attention.</template>
+</category>
+
+<category>
+  <pattern>* PRECAUTIONS *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PRECAUTIONS</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PRECAUTIONS *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PRECAUTION *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PRECAUTION</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PRECAUTION *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PROTECT *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PROTECT</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PROTECT *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* SAVE *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* SAVE</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>SAVE *</pattern>
+  <template>
+  <srai>PRECAUTIONS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS COVID 19</pattern>
+  <template>COVID-19 is the infectious disease caused by the most recently
+discovered corona virus. This new virus and disease were unknown
+before the outbreak began in Wuhan, China, in December 2019. </template>
+</category>
+
+<category>
+  <pattern>* WHAT IS COVID 19 *</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* WHAT IS COVID 19</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS COVID 19 *</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* WHAT IS COVID19 *</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* WHAT IS COVID19</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS COVID19 *</pattern>
+  <template>
+  <srai>WHAT IS COVID 19</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS CORONA VIRUS</pattern>
+  <template>Corona viruses are a large family of viruses which may cause illness
+in animals or humans. In humans, several coronaviruses are known
+to cause respiratory infections ranging from the common cold to more
+severe diseases such as Middle East Respiratory Syndrome (MERS)
+and Severe Acute Respiratory Syndrome (SARS). The most recently
+discovered coronavirus causes coronavirus disease COVID-19. </template>
+</category>
+
+<category>
+  <pattern>WHAT IS CORONAVIRUS</pattern>
+  <template>Corona viruses are a large family of viruses which may cause illness
+in animals or humans. In humans, several coronaviruses are known
+to cause respiratory infections ranging from the common cold to more
+severe diseases such as Middle East Respiratory Syndrome (MERS)
+and Severe Acute Respiratory Syndrome (SARS). The most recently
+discovered coronavirus causes coronavirus disease COVID-19. </template>
+</category>
+
+<category>
+  <pattern>EXPLAIN CORONA VIRUS</pattern>
+  <template>Corona viruses are a large family of viruses which may cause illness
+in animals or humans. In humans, several coronaviruses are known
+to cause respiratory infections ranging from the common cold to more
+severe diseases such as Middle East Respiratory Syndrome (MERS)
+and Severe Acute Respiratory Syndrome (SARS). The most recently
+discovered coronavirus causes coronavirus disease COVID-19. </template>
+</category>
+
+<category>
+  <pattern>EXPLAIN CORONAVIRUS</pattern>
+  <template>Corona viruses are a large family of viruses which may cause illness
+in animals or humans. In humans, several coronaviruses are known
+to cause respiratory infections ranging from the common cold to more
+severe diseases such as Middle East Respiratory Syndrome (MERS)
+and Severe Acute Respiratory Syndrome (SARS). The most recently
+discovered coronavirus causes coronavirus disease COVID-19. </template>
+</category>
+
+<category>
+  <pattern>DOES COVID 19 HAVE EFFECT ON ANIMALS</pattern>
+  <template>We currently don’t fully understand how COVID-19 affects different animal species. We are aware of a very small number of pets, including dogs, cats and a ferret reported to be infected with the virus that causes COVID-19 after close contact with people with COVID-19.</template>
+</category>
+
+<category>
+  <pattern>* EFFECT * ANIMALS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* EFFECT * ANIMALS</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>EFFECT * ANIMALS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ANIMALS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ANIMALS</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>ANIMALS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* BIRDS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* BIRDS</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>BIRDS *</pattern>
+  <template>
+  <srai>DOES COVID 19 HAVE EFFECT ON ANIMALS</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>FROM WHERE DID COVID ORIGINATE</pattern>
+  <template>Currently, the source of SARS-CoV-2, the coronavirus (CoV) causing COVID-19 is unknown. 
+  All available evidence suggests that SARS-CoV-2 has a natural animal origin and is not a constructed virus.
+   SARS-CoV-2 virus most probably has its ecological reservoir in bats. SARS-CoV-2, belongs to a group of genetically 
+   related viruses, which also include SARS-CoV and a number of other CoVs isolated from bats populations. MERS-CoV 
+   also belongs to this group, but is less closely related.
+   </template>
+</category>
+
+<category>
+  <pattern>* ORIGIN *</pattern>
+  <template>
+  <srai></srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ORIGIN</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>ORIGIN *</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ORIGIN *</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ORIGINATED</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>ORIGINATED *</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+<pattern>* ORIGINATED *</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ORIGINATE *</pattern>
+  <template>
+  <srai>FROM WHERE DID COVID ORIGINATED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* ORIGINATE</pattern>
+  <template>
+  <srai></srai>
+  </template>
+</category>
+
+<category>
+  <pattern>CAN COVID 19 BE CURED</pattern>
+  <template>While some western, traditional or home remedies may provide
+comfort and alleviate symptoms of COVID-19, there is no evidence
+that current medicine can prevent or cure the disease. We does not
+recommend self-medication with any medicines, including antibiotics,
+as a prevention or cure for COVID-19. However, there are several
+ongoing clinical trials that include both western and traditional
+medicines. We will continue to provide updated information as soon
+as clinical findings are available
+
+Those affected should receive care to relieve symptoms. People with serious illness should
+be hospitalized. Most patients recover thanks to supportive care. 
+Possible vaccines and some specific drug treatments are under
+investigation. They are being tested through clinical trials.
+The most effective ways to protect yourself and others against
+COVID-19 are to frequently clean your hands, cover your cough with
+the bend of elbow or tissue, and maintain a distance of at least 1
+meter (3 feet) from people who are coughing or sneezing
+
+Please go to your nearest hospital for check-up in case of any covid related symptoms.
+</template>
+</category>
+
+<category>
+  <pattern>* CURE *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* CURE</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>CURE *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TREATMENT *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TREATMENT</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>TREATMENT *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TREATED *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TREATED</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>TREATED *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* MEDICATION *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* MEDICATION</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>MEDICATION *</pattern>
+  <template>
+  <srai></srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* MEDICINE *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* MEDICINE</pattern>
+  <template>
+  <srai></srai>
+  </template>
+</category>
+
+<category>
+  <pattern>MEDICINE *</pattern>
+  <template>
+  <srai>CAN COVID 19 BE CURED</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>HOW DOES COVID 19 SPREAD</pattern>
+  <template>People can catch COVID-19 from others who have the virus. The
+disease can spread from person to person through small droplets from
+the nose or mouth which are spread when a person with COVID-19
+coughs or exhales. These droplets land on objects and surfaces
+around the person. Other people then catch COVID-19 by touching
+these objects or surfaces, then touching their eyes, nose or mouth.
+People can also catch COVID-19 if they breathe in droplets from a
+person with COVID-19 who coughs out or exhales droplets. This is
+why it is important to stay more than 1 meter (3 feet) away from a
+person who is sick. 
+  </template>
+</category>
+
+<category>
+  <pattern>* SPREAD *</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* SPREAD</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> SPREAD *</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TRANSMIT *</pattern>
+  <template>
+  <srai></srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TRANSMIT</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> TRANSMIT *</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TRANSMISSION *</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> TRANSMISSION *</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* TRANSMISSION</pattern>
+  <template>
+  <srai>HOW DOES COVID 19 SPREAD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>HOW LONG THE VIRUS SURVIVES ON SURFACES</pattern>
+  <template>
+  It is not certain how long the virus that causes COVID-19 survives on
+surfaces, but it seems to behave like other corona viruses. Studies
+suggest that corona viruses (including preliminary information on the
+COVID-19 virus) may persist on surfaces for a few hours or up to
+several days. This may vary under different conditions (e.g. type of
+surface, temperature or humidity of the environment).
+If you think a surface may be infected, clean it with simple disinfectant
+to kill the virus and protect yourself and others. Clean your hands with 
+an alcohol-based hand rub or wash them with soap and water. Avoid
+touching your eyes, mouth, or nose. 
+  </template>
+</category>
+
+<category>
+  <pattern>* VIRUS SURVIVES ON *</pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> VIRUS SURVIVES ON *</pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* VIRUS * SURVIVE *</pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>VIRUS * SURVIVE * </pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* VIRUS * STAY *</pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* VIRUS * STAYS *</pattern>
+  <template>
+  <srai>HOW LONG THE VIRUS SURVIVES ON SURFACES</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>ANTIBIOTICS</pattern>
+  <template>
+  No. Antibiotics do not work against viruses, they only work on
+bacterial infections. COVID-19 is caused by a virus, so antibiotics do
+not work. Antibiotics should not be used as a means of prevention or
+treatment of COVID-19. They should only be used as directed by a
+physician to treat a bacterial infection.
+  </template>
+</category>
+
+
+<category>
+  <pattern>HOW TO PUT ON AND DISCARD MASK</pattern>
+  <template>1. Remember, a mask should only be used by health workers, care takers,
+and individuals with respiratory symptoms, such as fever and cough.
+2. Before touching the mask, clean hands with an alcohol-based
+hand rub or soap and water.
+3. Take the mask and inspect it for tears or holes.
+4. Orient which side is the top side (where the metal strip is).
+5. Ensure the proper side of the mask faces outwards (the
+coloured side).
+6. Place the mask to your face. Pinch the metal strip or stiff edge of
+the mask so it moulds to the shape of your nose.
+7. Pull down the mask’s bottom so it covers your mouth and your
+chin.
+8. After use, take off the mask; remove the elastic loops from
+behind the ears while keeping the mask away from your face
+and clothes, to avoid touching potentially contaminated surfaces
+of the mask.
+9. Discard the mask in a closed bin immediately after use.
+10. Perform hand hygiene after touching or discarding the
+mask – Use alcohol-based hand rub or, if visibly soiled, wash
+your hands with soap and water.</template>
+</category>
+
+<category>
+  <pattern>* WEAR MASK *</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* WEAR MASK </pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> WEAR MASK*</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PUT ON MASK *</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PUT ON MASK </pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> PUT ON MASK *</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* DISPOSE * MASK *</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* DISPOSE MASK </pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> DISPOSE MASK *</pattern>
+  <template>
+  <srai>HOW TO PUT ON AND DISCARD MASK</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>EFFECT OF CLIMATE CHANGE</pattern>
+  <template></template>
+</category>
+
+<category>
+  <pattern>* CLIMATE *</pattern>
+  <template>
+  <srai>EFFECT OF CLIMATE CHANGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* CLIMATE</pattern>
+  <template>
+  <srai>EFFECT OF CLIMATE CHANGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>CLIMATE *</pattern>
+  <template>
+  <srai>EFFECT OF CLIMATE CHANGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>EXPECTED DATE OF VACCINE</pattern>
+  <template>Many countries have launched the vaccines. 
+  In India also the vaccine is expected very soon.
+  </template>
+</category>
+
+<category>
+  <pattern>* VACCINE *</pattern>
+  <template>
+  <srai>EXPECTED DATE OF VACCINE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* VACCINE </pattern>
+  <template>
+  <srai>EXPECTED DATE OF VACCINE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> VACCINE *</pattern>
+  <template>
+  <srai>EXPECTED DATE OF VACCINE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>NON VEG FOOD</pattern>
+  <template>So, far there is no clear evidence supported by WHO to prove that the novel strain of the SARS-Cov-2 virus lives on chicken, eggs, meat, or seafood and can make non-vegetarian food unsafe for consumption.</template>
+</category>
+
+<category>
+  <pattern>* NONVEG *</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* NONVEG</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>NONVEG *</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* NON VEG *</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* NON VEG</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>NON VEG *</pattern>
+  <template>
+  <srai>NON VEG FOOD</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>HOW LONG IS THE INCUBATION PERIOD OF COVID</pattern>
+  <template>The “incubation period” means the time between catching the virus
+and beginning to have symptoms of the disease. Most estimates of
+the incubation period for COVID-19 range from 1-14 days, most
+commonly around five days. These estimates will be updated as more
+data become available. </template>
+</category>
+
+<category>
+  <pattern>* INCUBATION *</pattern>
+  <template>
+  <srai>HOW LONG IS THE INCUBATION PERIOD OF COVID</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* INCUBATION </pattern>
+  <template>
+  <srai>HOW LONG IS THE INCUBATION PERIOD OF COVID</srai>
+  </template>
+</category>
+
+<category>
+  <pattern> INCUBATION *</pattern>
+  <template>
+  <srai>HOW LONG IS THE INCUBATION PERIOD OF COVID</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>IS IT SAFE TO RECIEVE A PACKAGE</pattern>
+  <template>Yes. The likelihood of an infected person contaminating commercial
+goods is low and the risk of catching the virus that causes COVID-19
+from a package that has been moved, travelled, and exposed to
+different conditions and temperature is also low. </template>
+</category>
+
+<category>
+  <pattern>* PACKAGE *</pattern>
+  <template>
+  <srai>IS IT SAFE TO RECIEVE A PACKAGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PACKAGE </pattern>
+  <template>
+  <srai>IS IT SAFE TO RECIEVE A PACKAGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PACKAGE *</pattern>
+  <template>
+  <srai>IS IT SAFE TO RECIEVE A PACKAGE</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* WORRY *</pattern>
+  <template>Illness due to COVID-19 infection is generally mild, especially for
+children and young adults. However, it can cause serious illness:
+about 1 in every 5 people who catch it need hospital care. It is
+therefore quite normal for people to worry about how the COVID-19
+outbreak will affect them and their loved ones.
+We can channel our concerns into actions to protect ourselves, our
+loved ones and our communities. First and foremost among these
+actions is regular and thorough hand-washing and good respiratory
+hygiene. Secondly, keep informed and follow the advice of the local
+health authorities including any restrictions put in place on travel,
+movement and gatherings. </template>
+</category>
+
+<category>
+  <pattern>* SEVERE *</pattern>
+  <template>While we are still learning about how COVID-2019 affects people,
+older persons and persons with pre-existing medical conditions (such
+as high blood pressure, heart disease, lung disease, cancer or
+diabetes) appear to develop serious illness more often than others</template>
+</category>
+
+<category>
+  <pattern>* SARS *</pattern>
+  <template>The virus that causes COVID-19 and the one that caused the
+outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are
+related to each other genetically, but the diseases they cause are
+quite different.
+SARS was more deadly but much less infectious than COVID-19.
+There have been no outbreaks of SARS anywhere in the world since
+2003.</template>
+</category>
+
+<category>
+  <pattern>* SARS VIRUS *</pattern>
+  <template>
+  <srai>* SARS *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* SARS</pattern>
+  <template>
+  <srai>* SARS *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>SARS *</pattern>
+  <template>
+  <srai>* SARS *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PET *</pattern>
+  <template>While there has been one instance of a dog being infected in Hong
+Kong, to date, there is no evidence that a dog, cat or any pet can
+transmit COVID-19. COVID-19 is mainly spread through droplets
+produced when an infected person coughs, sneezes, or speaks. To
+protect yourself, clean your hands frequently and thoroughly.
+We continues to monitor the latest research on this and other COVID19 topics and will update as new findings are available. </template>
+</category>
+
+<category>
+  <pattern>* PETS *</pattern>
+  <template>
+  <srai>* PET *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PET</pattern>
+  <template>
+  <srai>* PET *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PET *</pattern>
+  <template>
+  <srai>* PET *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>* PETS</pattern>
+  <template>
+  <srai>* PET *</srai>
+  </template>
+</category>
+
+<category>
+  <pattern>PETS *</pattern>
+  <template>
+  <srai>* PET *</srai>
+  </template>
+</category>
+
+<category>
+      <pattern>WHEN WAS FIRST COVID CASE REPORTED IN INDIA</pattern>
+            <template> The first case of COVID-19 infection reported in Kerala, India. On January 27, 2020, a 20 yr old female presented to the Emergency Department in General Hospital, Thrissur, Kerala</template>
+  </category>
+
+<category>
+      <pattern>* FIRST * CASE * INDIA</pattern>
+      <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN INDIA</srai></template>
+</category>
+
+<category>
+    <pattern>FIRST * CASE * INDIA</pattern>
+    <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN INDIA</srai></template>
+</category>
+
+<category>
+    <pattern>FIRST CASE * INDIA</pattern>
+    <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN INDIA</srai></template>
+</category>
+
+<category>
+    <pattern>WHEN WAS FIRST COVID CASE REPORTED IN WORLD</pattern>
+    <template>The first human cases of COVID-19, the disease caused by the novel coronavirus causing COVID-19, subsequently named SARS-CoV-2 were first reported by officials in Wuhan City, China, in December 2019.</template>
+</category>
+
+<category>
+    <pattern>* FIRST * CASE * WORLD</pattern>
+    <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN WORLD</srai></template>
+</category>
+
+<category>
+    <pattern>FIRST * CASE * WORLD</pattern>
+    <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN WORLD</srai></template>
+</category>
+
+<category>
+    <pattern>FIRST CASE * WORLD</pattern>
+    <template><srai>WHEN WAS FIRST COVID CASE REPORTED IN WORLD</srai></template>
+</category>
+
+<category>
+<pattern>FORMAT</pattern>
+<template>To know stats, please type in format "State/India/World Active/Total/Deaths"</template>
+</category>
+
+<category>
+<pattern>* ACTIVE *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>* ACTIVE</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>ACTIVE *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>* TOTAL *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>TOTAL *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+  <pattern>* TOTAL</pattern>
+  <template>
+    <srai>FORMAT</srai>
+  </template>
+</category>
+
+<category>
+<pattern>* DEATH *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>DEATH *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>* DEATH</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>* DEATHS *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>DEATHS *</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+<pattern>DEATHS</pattern>
+<template>
+  <srai>FORMAT</srai>
+</template>
+</category>
+
+<category>
+    <pattern>*</pattern>
+    <template>
+     <random>
+            <li>Go on. Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>Be more specific. Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>        
+            <li>Are you telling the truth? Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>I don't know what that means. Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>Try to tell me that another way. Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>Are you talking about the disease? Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>When will IITK reopen? Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>Umm, I don't really know, What are you talking about? Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>Are you kidding me? Otherwise, Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+            <li>I can answer all sort of queries now: Click on this link to know all about your query:  
+  http://www.google.com/search?q=<star/> Thanks for interacting with The Errors</li>
+        </random>
+    </template>
+</category>
+
+</aiml>

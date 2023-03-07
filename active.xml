@@ -1,0 +1,241 @@
+<aiml>
+
+<category>
+  <pattern>MAHARASHTRA ACTIVE</pattern>
+  <template>91623</template>
+</category>
+
+<category>
+  <pattern>KARNATAKA ACTIVE</pattern>
+  <template>23298</template>
+</category>
+
+<category>
+  <pattern>ANDHRA PRADESH ACTIVE</pattern>
+  <template>7840</template>
+</category>
+
+<category>
+  <pattern>TAMIL NADU ACTIVE</pattern>
+  <template>10997</template>
+</category>
+
+<category>
+  <pattern>KERELA ACTIVE</pattern>
+  <template>62025</template>
+</category>
+
+<category>
+  <pattern>DELHI ACTIVE</pattern>
+  <template>32885</template>
+</category>
+
+<category>
+  <pattern>UTTAR PRADESH ACTIVE</pattern>
+  <template>24099</template>
+</category>
+
+<category>
+  <pattern>UP ACTIVE</pattern>
+  <template>24099</template>
+</category>
+
+<category>
+  <pattern>WEST BENGAL ACTIVE</pattern>
+  <template>24298</template>
+</category>
+
+<category>
+  <pattern>ORISSA ACTIVE</pattern>
+  <template>4921</template>
+</category>
+
+<category>
+  <pattern>TELANGANA ACTIVE</pattern>
+  <template>9627</template>
+</category>
+
+<category>
+  <pattern>RAJASTHAN ACTIVE</pattern>
+  <template>28653</template>
+</category>
+
+<category>
+  <pattern>CHATTISGARH ACTIVE</pattern>
+  <template>19635</template>
+</category>
+
+<category>
+  <pattern>BIHAR ACTIVE</pattern>
+  <template>5359</template>
+</category>
+
+<category>
+  <pattern>HARYANA ACTIVE</pattern>
+  <template>18632</template>
+</category>
+
+<category>
+  <pattern>ASSAM ACTIVE</pattern>
+  <template>3399</template>
+</category>
+
+<category>
+  <pattern>GUJRAT ACTIVE</pattern>
+  <template>14970</template>
+</category>
+
+<category>
+  <pattern>MADHYA PRADESH ACTIVE</pattern>
+  <template>14771</template>
+</category>
+
+<category>
+  <pattern>MP ACTIVE</pattern>
+  <template>14771</template>
+</category>
+
+<category>
+  <pattern>PUNJAB ACTIVE</pattern>
+  <template>7842</template>
+</category>
+
+<category>
+  <pattern>JAMMU AND KASHMIR ACTIVE</pattern>
+  <template>4965</template>
+</category>
+
+<category>
+  <pattern>JAMMU KASHMIR ACTIVE</pattern>
+  <template>4965</template>
+</category>
+
+<category>
+  <pattern>JAMMU * KASHMIR ACTIVE</pattern>
+  <template>4965</template>
+</category>
+
+<category>
+  <pattern>J*K ACTIVE</pattern>
+  <template>4965</template>
+</category>
+
+<category>
+  <pattern>JHARKHAND ACTIVE</pattern>
+  <template>2016</template>
+</category>
+
+<category>
+  <pattern>UTTRAKHAND ACTIVE</pattern>
+  <template>5059</template>
+</category>
+
+<category>
+  <pattern>GOA ACTIVE</pattern>
+  <template>1335</template>
+</category>
+
+<category>
+  <pattern>HIMANCHAL PRADESH ACTIVE</pattern>
+  <template>8289</template>
+</category>
+
+<category>
+  <pattern>HP ACTIVE</pattern>
+  <template>8289</template>
+</category>
+
+<category>
+  <pattern>PUDDUCHERRY ACTIVE</pattern>
+  <template>460</template>
+</category>
+
+<category>
+  <pattern>PONDICHERRY ACTIVE</pattern>
+  <template>460</template>
+</category>
+
+<category>
+  <pattern>TRIPURA ACTIVE</pattern>
+  <template>592</template>
+</category>
+
+<category>
+  <pattern>MANIPUR ACTIVE</pattern>
+  <template>3198</template>
+</category>
+
+<category>
+  <pattern>CHANDIGARH ACTIVE</pattern>
+  <template>1062</template>
+</category>
+
+<category>
+  <pattern>ARUNANCHAL PRADESH ACTIVE</pattern>
+  <template>817</template>
+</category>
+
+<category>
+  <pattern>AP ACTIVE</pattern>
+  <template>817</template>
+</category>
+
+<category>
+  <pattern>MAGHALAYA ACTIVE</pattern>
+  <template>763</template>
+</category>
+
+<category>
+  <pattern>NAGALAND ACTIVE</pattern>
+  <template>928</template>
+</category>
+
+<category>
+  <pattern>LADDAKH ACTIVE</pattern>
+  <template>809</template>
+</category>
+
+
+<category>
+  <pattern>SIKKIM ACTIVE</pattern>
+  <template>248</template>
+</category>
+
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR ACTIVE</pattern>
+  <template>99</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN AND NICOBAR * ACTIVE</pattern>
+  <template>99</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN NICOBAR ACTIVE</pattern>
+  <template>99</template>
+</category>
+
+<category>
+  <pattern>ANDAMAN * NICOBAR ACTIVE</pattern>
+  <template>99</template>
+</category>
+
+<category>
+  <pattern>MIZORAM ACTIVE</pattern>
+  <template>343</template>
+</category>
+
+
+<category>
+  <pattern>WORLD ACTIVE</pattern>
+  <template>23,838,917</template>
+</category>
+
+<category>
+  <pattern>INDIA ACTIVE</pattern>
+  <template>4,35,603</template>
+</category>
+
+</aiml>

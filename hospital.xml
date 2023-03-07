@@ -1,0 +1,36 @@
+<aiml>
+
+<category>
+<pattern>FIND HOSPITAL NEAR ME</pattern>
+<template>Please enter your Location Format- My location is (location)</template>
+</category>
+
+<category>
+<pattern>* HOSPITALS *</pattern>
+<template>
+<srai>FIND HOSPITAL NEAR ME</srai>
+</template>
+</category>
+
+<category>
+<pattern>* HOSPITAL *</pattern>
+<template>
+<srai>FIND HOSPITAL NEAR ME</srai>
+</template>
+</category>
+
+<category>
+<pattern>HOSPITAL</pattern>
+<template>
+<srai>FIND HOSPITAL NEAR ME</srai>
+</template>
+</category>
+
+<category>
+<pattern> MY LOCATION IS * </pattern>
+<template>
+    Here is what are you looking for: https://www.google.com/search?q=Hospitals+Near+<star/> :Use ctrl + Click to open it, otherwise copy this url to your browser.
+</template>
+</category>
+
+</aiml>
